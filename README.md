@@ -8,7 +8,7 @@ Below are some data related projects I have completed with the goal of gaining e
 
 This section contains complete end-to-end projects I have done.  
 
-[Workout History Analysis and Dashboard]()
+[Workout Data Analysis and Dashboard]()
 (In progress)
 
 
