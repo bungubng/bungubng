@@ -6,7 +6,7 @@ Below are some data related projects I have completed with the goal of gaining e
 
 ## Portfolio Projects 
 
-This section contains complete end-to-end projects.
+This section contains complete projects.
 
 [Weight Training Analytics and Dashboard]()
 (In progress)
