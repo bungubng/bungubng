@@ -8,7 +8,7 @@ Below are some data related projects I have completed with the goal of gaining e
 
 This section contains all my complete projects.
 
-[Weight Training Analytics and Dashboard]()
+[Weight Training Analytics and Dashboard](https://github.com/bungubng/bungubng/blob/main/weight-training-project/README.md)
 (In progress)
 
 
