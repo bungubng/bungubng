@@ -4,8 +4,9 @@ Below are some data related projects I have completed with the goal of gaining e
 
 ## Portfolio Projects 
 
-[Weight Training Analytics and Dashboard](https://github.com/bungubng/bungubng/blob/main/weight-training-project/README.md)
+[Duolingo Vocabulary Retention Data Analysis](https://github.com/bungubng/vocabulary-retention-project/blob/main/README.md)
 (In progress)
+
 
 
 
