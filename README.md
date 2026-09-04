@@ -5,7 +5,6 @@ Below are some data related projects I have completed with the goal of gaining e
 ## Portfolio Projects 
 
 [Duolingo Vocabulary Retention Data Analysis](https://github.com/bungubng/vocabulary-retention-project/blob/main/README.md)
-(In progress)
 
 
 
