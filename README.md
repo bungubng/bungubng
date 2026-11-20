@@ -1,6 +1,6 @@
 # Bryan's Portfolio (In progress)
 
-Below are some data related projects I have completed with the goal of gaining experience in data analysis.
+Below are some projects I have completed.
 
 ## Portfolio Projects 
 
